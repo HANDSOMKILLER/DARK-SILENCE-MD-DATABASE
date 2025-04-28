@@ -1,0 +1,52 @@
+{
+
+"BOT_NAME": "SILENT-SOBX-MD",
+"VERSION": "3.0.0",
+"CREATED BY": "SILENTLOVER432",
+  
+"replyMsg": {
+  
+  "giveme": "*_Type something, what do you think, who do you think I look like?_*",
+
+  "giveut": "*_DEAR GIVE A LINK OR A TEXT⚡_*",
+
+  "not_fo": "*_❌ SORRY I COULDN'T FIND ANYTHING..🚀_*",
+
+  "url": "*_DEAR GIVE ME A LINK...🚀_*",
+  
+  "valid_url": "*_This Url is invalid ❌ Please give me valid Url ❗_*",
+
+  "size_big": "*_File size is too big ❌_*",
+
+  "own_cmd": "*_DEAR THIS IS OWNER COMMAD..🚀_*",
+
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923096287432?text=GET_PREMIUIM_CONNECTION👾",
+
+  "ald_set": "*_ALREADY SET_* 🙂✅",
+
+  "only_gp": "*_THIS IS GROUP COMMAND..🚀_*",
+
+  "inb_cmd": "*_THIS IS INBOX COMMAND...🚀_*",
+
+  "give_adm": "*_DEAR ADMIN IM NOT PROMTE HERE PLEASE GIVE ME ADDITION TO USE THIS CMD..🚀_*",
+
+  "you_adm": "*_DEAR YOU ARE NOT AN ADMIN IN THIS GROUP...🚀_*",
+
+  "need_jid": "Please give me jid ❓",
+
+  "valid_jid": "*This not jid ❌ Please give me valid jid ❗*",
+
+  "ald_approve_jid": "Jid approve accept ✔",
+
+  "ald_approve_alljid": "All Jid approve accept ✔",
+
+  "ald_reapprove_jid": "Jid approve reject ✔",
+
+  "ald_reapprove_alljid": "All Jid approve reject ✔",
+
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact SILENT-SOBX-MD Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "ERROR..🚀" 
+}
+
+}
